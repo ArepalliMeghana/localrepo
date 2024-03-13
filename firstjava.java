@@ -18,7 +18,7 @@ class Solution {
     }
     public static void main(String args[])
     {
-        String b[]={"flower","flow","flight"};
+        String b[]={"flower","flow","flows"};
         String a=longestCommonPrefix(b);
         System.out.println(a);
     }
